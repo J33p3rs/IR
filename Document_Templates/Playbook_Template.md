@@ -12,14 +12,22 @@ The Purpose of this document is to describe the steps used to respond to a [Thre
 | <b> Look for correlating evidence</b><br> Correlating information will help determine the scope of the incident. The following can be checked in the logs: <ul><li>Relevant dot points</ul> | [Role] |
 | <b>Perform research</b><br>Further research can help understand and identify the scope of an incident. Record any additional indicators found. <br><ul><li>Relevant dot points</ul> | [Role] | 
 | <b>Prioritise the incident</b><br> Prioritise the incident based on [Guidelines / Policy Name] | [Role] |
-| <b>Report the incident</b><br>
-
-
-
-
-
+| <b>Report the incident</b><br>Report the incident following the guidleines in the Incident Management Policy.<br><ul><li>relevant dot points</ul> | [Role] |
 
 # 4. Conatinment, Eradication and Recovery
+## 4.1 Aquire, preserve, secure and document evidence
+All evidence should be aquired and securely stored.
+## 4.2 Contain the incident
+|Action | Responsible |
+|---|---|
+|The following can help contain a [Threat Scenario] incident <br><ul><li>Relevant dot points</ul> | [Role] |
+
+## 4.3 Eradicate the Incident
+|Action | Responsible |
+|---|---|
+|<b>Identify and mitigate all vulnerabilities that were exploited</b><br><ul><li>Relevant dot points</ul> | [Role] |
+|<b>Remove malware, inappropriate materials, and other components</b><br> | 
+
 # 5. Post-Incident Activity
 # 6. Reference Documents
 [NIST 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) 
