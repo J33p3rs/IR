@@ -50,4 +50,7 @@ All evidence should be aquired and securely stored.
 ## Create a follow-up Report
 
 # 6. Reference Documents
-[NIST 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) 
+* [NIST 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) 
+* Incident Management Policy
+* Other relevant Playbooks
+
