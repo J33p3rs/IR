@@ -24,9 +24,8 @@ To prepare for a [Threat Scenario] the organisation will need:
 ## 4.1 Aquire, preserve, secure and document evidence
 All evidence should be aquired and securely stored.
 ## 4.2 Contain the incident
-|Action | Responsible |
-|---|---|
-|The following can help contain a [Threat Scenario] incident <br><ul><li>Relevant dot points</ul> | [Role] |
+* The following can help contain a [Threat Scenario] incident 
+ * Relevant dot points
 
 ## 4.3 Eradicate the Incident
 * Identify and mitigate all vulnerabilities that were exploited
