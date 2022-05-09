@@ -3,6 +3,12 @@
 # 1.Purpose
 The Purpose of this document is to describe the steps used to respond to a [Threat Scenario] event.
 # 2. Preparation
+To prepare for a [Threat Scenario] the organisation will need:
+* Detections / logs
+* Process
+* Policies
+
+
 # 3. Detection and Analysis 
 ## 3.1 Determine if an incident has occured
 |Action | Responsible |
@@ -23,11 +29,26 @@ All evidence should be aquired and securely stored.
 |The following can help contain a [Threat Scenario] incident <br><ul><li>Relevant dot points</ul> | [Role] |
 
 ## 4.3 Eradicate the Incident
-|Action | Responsible |
-|---|---|
-|<b>Identify and mitigate all vulnerabilities that were exploited</b><br><ul><li>Relevant dot points</ul> | [Role] |
-|<b>Remove malware, inappropriate materials, and other components</b><br> | 
+* Identify and mitigate all vulnerabilities that were exploited
+  * Relevant dot points
+* Remove malware, inappropriate materials, and other components
+  * Relevant dot points
+* If more affected hosts are discovered
+  * Repeat the Detection and Analysis steps to identify all other affected hosts, then contain and eradicate the incident for them.
+
+## Recover from the Incident
+* Return affected systems to an operationally ready state
+ * Dot points specific to the scenario
+* Confirm that the affected systems are functioning normally
+  * Dot points specific to the scenario
+* If necessary, implement additional monitoring to look for future related activity
+  * Dots points specific to the scenario
+
 
 # 5. Post-Incident Activity
+## Hold a lessons leared meeting
+
+## Create a follow-up Report
+
 # 6. Reference Documents
 [NIST 800-61r2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) 
