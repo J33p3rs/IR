@@ -25,24 +25,27 @@ This policy applies to all employees, contractors, and third-party vendors who h
 ### 2. Detection and Analysis
 - Establish procedures for detecting security incidents, including the use of intrusion detection systems, log monitoring, and other security technologies.
 - Notify the IRT immediately upon detection of a security incident.
-- Analyse the security incident to determine the scope and severity of the incident.
+- Analyse the security incident to determine the scope and severity of the incident, including:
+  - Identifying the source of the incident, if possible.
+  - Gathering evidence and preserving it for analysis.
+  - Classifying the incident according to its severity level.
+  - Assessing the impact of the incident on the organisation's information systems and data.
 
 ### 3. Containment, Eradication, and Recovery
-- Contain the security incident to prevent further damage to the organisation's information systems and data.
-- Eradicate the security incident by removing the threat from the organisation's information systems and data.
-- Recover from the security incident by restoring the affected information systems and data to their normal operational state.
+- Contain the security incident to prevent further damage to the organisation's information systems and data, including:
+  - Isolating affected systems from the network.
+  - Shutting down affected systems, if necessary.
+  - Blocking network traffic associated with the incident.
+- Eradicate the security incident by removing the threat from the organisation's information systems and data, including:
+  - Removing malware or other malicious software.
+  - Patching vulnerabilities that were exploited.
+  - Restoring affected systems to their pre-incident state.
+- Recover from the security incident by restoring the affected information systems and data to their normal operational state, including:
+  - Verifying the integrity of the recovered systems and data.
+  - Conducting tests to ensure that the systems and data are functioning properly.
+  - Monitoring the systems and data to ensure that there are no residual effects of the incident.
 
 ### 4. Post-Incident Activity
 - Conduct a post-incident review to identify lessons learned and make recommendations for improving the Incident Response Plan (IRP).
 - Document the security incident and the steps taken to contain, eradicate, and recover from the incident.
-- Notify senior management and other stakeholders of the security incident and the steps taken to contain, eradicate, and recover from the incident.
-
-## Training and Awareness
-- All employees, contractors, and third-party vendors who have access to the organisation's information systems and data must receive training on the Incident Response Plan (IRP) and their roles and responsibilities in responding to security incidents.
-- Regular awareness campaigns should be conducted to keep employees, contractors, and third-party vendors informed about the latest security threats and how to report them to the IRT.
-
-## Policy Review
-- This policy will be reviewed annually and updated as necessary to ensure that it remains current and effective in addressing the organisation's security needs.
-
-## References
-This policy is based on the National Institute of Standards and Technology (NIST) Special Publication 800-61r2, Computer Security Incident Handling Guide.
+- Notify senior management and other stakeholders of the security incident and the steps taken to contain, eradicate, and recover
