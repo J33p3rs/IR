@@ -40,4 +40,4 @@
    A. Isolating affected systems from the network, removing malware or other malicious software, and restoring affected systems to their pre-incident state.<br>
    B. Identifying the source of the incident, gathering evidence and preserving it for analysis, and assessing the impact of the incident on the organisation's information systems and data.<br>
    C. Developing and maintaining an Incident Response Plan (IRP), identifying and training members of the Incident Response Team (IRT), and establishing procedures for notifying the IRT, senior management, and other stakeholders in the event of a security incident.<br>
-   D. **Isolating affected systems from the network, removing malware or other malicious software, and restoring affected systems to their pre-
+   D. **Isolating affected systems from the network, removing malware or other malicious software, and restoring affected systems to their pre-incident state**
