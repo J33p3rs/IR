@@ -9,7 +9,7 @@
 2. Who does this policy apply to?
    A. All employees only.
    B. Contractors and third-party vendors only.
-   C. All employees, contractors, and third-party vendors who have access to the organisation's information systems and data.
+   C. **All employees, contractors, and third-party vendors who have access to the organisation's information systems and data.**
    D. Senior management only.
 
 3. What is an Incident Response Team (IRT)?
@@ -22,7 +22,7 @@
    A. The CEO.
    B. The Information Security Officer (ISO).
    C. The HR Manager.
-   D. All employees.
+   D. **All employees.**
 
 5. What are the steps involved in the Incident Response Procedures?
    A. Detection and Analysis, Containment and Eradication, Recovery, and Post-Incident Activity.
