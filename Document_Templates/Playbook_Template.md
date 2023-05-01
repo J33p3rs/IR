@@ -24,26 +24,26 @@ To prepare for a [Threat Scenario] the organisation will need:
 ## 4.1 Aquire, preserve, secure and document evidence
 |Action | Responsible |
 |---|---|
-| All evidence should be aquired and securely stored.||
+| All evidence should be aquired and securely stored.<br><ul><li>Relevant dot points<li><li> |[Role] |
+
 ## 4.2 Contain the incident
-* 
 |Action | Responsible |
 |---|---|
-|The following can help contain a [Threat Scenario] incident <br><li> Relevant dot points ||
+|The following can help contain a [Threat Scenario] incident <br><ul><li> Relevant dot points<li><li> |[Role] |
 
 ## 4.3 Eradicate the Incident
 |Action | Responsible |
 |---|---|
-| Identify and mitigate all vulnerabilities that were exploited <br><li> Relevant dot points ||
-| Remove malware, inappropriate materials, and other components <br> <li>Relevant dot points ||
-| If more affected hosts are discovered <br> <li> Repeat the Detection and Analysis steps to identify all other affected hosts, then contain and eradicate the incident for them.|
+| Identify and mitigate all vulnerabilities that were exploited <br><ul><li> Relevant dot points<li><li> |[Role] |
+| Remove malware, inappropriate materials, and other components <br><ul><li>Relevant dot points <li><li> | [Role]|
+| If more affected hosts are discovered <br><ul><li> Repeat the Detection and Analysis steps to identify all other affected hosts, then contain and eradicate the incident for them.|[Role]|
 
-## Recover from the Incident
- |Action | Responsible |
+## 4.4 Recover from the Incident
+|Action | Responsible |
 |---|---|
-| Return affected systems to an operationally ready state <br><li>Dot points specific to the scenario||
-| Confirm that the affected systems are functioning normally <br><li> Dot points specific to the scenario||
-| If necessary, implement additional monitoring to look for future related activity <br><li> Dots points specific to the scenario ||
+| Return affected systems to an operationally ready state <br><ul><li>Dot points specific to the scenario<li><li> |[Role]|
+| Confirm that the affected systems are functioning normally <br><ul><li> Dot points specific to the scenario<li><li> |[Role] |
+| If necessary, implement additional monitoring to look for future related activity <br><ul><li> Dots points specific to the scenario<li><li> |[Role] |
 
 # 5. Post-Incident Activity
 ## Hold a lessons leared meeting
