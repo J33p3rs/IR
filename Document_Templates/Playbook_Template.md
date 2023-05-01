@@ -22,27 +22,28 @@ To prepare for a [Threat Scenario] the organisation will need:
 
 # 4. Conatinment, Eradication and Recovery
 ## 4.1 Aquire, preserve, secure and document evidence
-All evidence should be aquired and securely stored.
+|Action | Responsible |
+|---|---|
+| All evidence should be aquired and securely stored.||
 ## 4.2 Contain the incident
-* The following can help contain a [Threat Scenario] incident 
- * Relevant dot points
+* 
+|Action | Responsible |
+|---|---|
+|The following can help contain a [Threat Scenario] incident <br><li> Relevant dot points ||
 
 ## 4.3 Eradicate the Incident
-* Identify and mitigate all vulnerabilities that were exploited
-  * Relevant dot points
-* Remove malware, inappropriate materials, and other components
-  * Relevant dot points
-* If more affected hosts are discovered
-  * Repeat the Detection and Analysis steps to identify all other affected hosts, then contain and eradicate the incident for them.
+|Action | Responsible |
+|---|---|
+| Identify and mitigate all vulnerabilities that were exploited <br><li> Relevant dot points ||
+| Remove malware, inappropriate materials, and other components <br> <li>Relevant dot points ||
+| If more affected hosts are discovered <br> <li> Repeat the Detection and Analysis steps to identify all other affected hosts, then contain and eradicate the incident for them.|
 
 ## Recover from the Incident
-* Return affected systems to an operationally ready state
- * Dot points specific to the scenario
-* Confirm that the affected systems are functioning normally
-  * Dot points specific to the scenario
-* If necessary, implement additional monitoring to look for future related activity
-  * Dots points specific to the scenario
-
+ |Action | Responsible |
+|---|---|
+| Return affected systems to an operationally ready state <br><li>Dot points specific to the scenario||
+| Confirm that the affected systems are functioning normally <br><li> Dot points specific to the scenario||
+| If necessary, implement additional monitoring to look for future related activity <br><li> Dots points specific to the scenario ||
 
 # 5. Post-Incident Activity
 ## Hold a lessons leared meeting
