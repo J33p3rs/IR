@@ -16,3 +16,6 @@ Societe Generale CERT Playbooks | https://github.com/certsocietegenerale/IRM
 ## AusCERT 2022
 * Google Drive | https://drive.google.com/drive/folders/1QytAgbdfz_J7TqHouRMQLWZGcb7VHUZR?usp=sharing
 -->
+## Threat intel
+  If you would like to recieve our monthly threat intel briefing you can get it here:
+  * https://cdn.forms-content.sg-form.com/0147c735-df89-11eb-9b03-8e75703429bd
