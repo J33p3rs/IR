@@ -10,9 +10,14 @@ Silence Crew / Fancy Lazarus references | <li>https://www.zdnet.com/article/aust
 CISA DoS Reference | https://www.cisa.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf
 Societe Generale CERT Playbooks | https://github.com/certsocietegenerale/IRM
 
+## AusCERT 2024
+* Google Drive | https://drive.google.com/drive/folders/1j7cwLpEarR_4GdOCVhL36xmxblE6BTXp?usp=sharing
+
+<!--
+
 ## AusCERT 2023
 * Google Drive | https://drive.google.com/drive/folders/1JZLCrJYYwcJ5d75vX_aXSOMnx-idwBb5?usp=share_link
-<!--
+
 ## AusCERT 2022
 * Google Drive | https://drive.google.com/drive/folders/1QytAgbdfz_J7TqHouRMQLWZGcb7VHUZR?usp=sharing
 -->
