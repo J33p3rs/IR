@@ -15,6 +15,8 @@ Syntax-IR Public Playbooks  | https://gitlab.com/syntax-ir/playbooks
 ## Scenario Development and Testing
 Name | Link
 | --- | --- |
+ACSC Exercise-in-a-Box | https://exerciseinabox.cyber.gov.au/app/
+Bad things daily twitter feed | https://x.com/badthingsdaily
 Black Hills InfoSec Cubicle and Compromises <br> (IR scenario game)| https://www.blackhillsinfosec.com/cubicles-compromises-printable/
 Nist 800-61r2 | https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
 Silence Crew / Fancy Lazarus references | <li>https://www.zdnet.com/article/australian-banks-targeted-by-ddos-extortionists/ <lli>https://www.csoonline.com/article/3529468/asd-warning-ddos-extortion-attacks-threaten-aussie-banks.html <li>https://cisomag.com/silence-hacking-crew-threatens-of-a-ddos-attack-against-australian-banks/
