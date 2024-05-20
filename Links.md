@@ -5,11 +5,14 @@ The following are links related to or discussed in IR presentations and workshop
 Name | Link
 |---|---|
 ACSC Incident Response Plan | https://www.cyber.gov.au/acsc/view-all-content/publications/cyber-incident-response-plan
+AWS Sample Playbooks | https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/appendix-b-incident-response-resources.html#playbook-resources
 Nist 800-61r2 | https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
 CISA DoS Reference | https://www.cisa.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf
+Microsoft Incident Response Playbooks | https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
 Societe Generale CERT Playbooks | https://github.com/certsocietegenerale/IRM
+Syntax-IR Public Playbooks  | https://gitlab.com/syntax-ir/playbooks
 
-## Scenario Development and testing
+## Scenario Development and Testing
 Name | Link
 | --- | --- |
 Black Hills InfoSec Cubicle and Compromises <br> (IR scenario game)| https://www.blackhillsinfosec.com/cubicles-compromises-printable/
