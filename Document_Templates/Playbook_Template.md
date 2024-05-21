@@ -20,7 +20,7 @@ To prepare for a [Threat Scenario] the organisation will need:
 | <b>Prioritise the incident</b><br> Prioritise the incident based on [Guidelines / Policy Name] | [Role] |
 | <b>Report the incident</b><br>Report the incident following the guidleines in the Incident Management Policy.<br><ul><li>relevant dot points</ul> | [Role] |
 
-# 4. Conatinment, Eradication and Recovery
+# 4. Containment, Eradication and Recovery
 ## 4.1 Aquire, preserve, secure and document evidence
 |Action | Responsible |
 |---|---|
