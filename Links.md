@@ -35,3 +35,6 @@ Silence Crew / Fancy Lazarus references | <li>https://www.zdnet.com/article/aust
 ## Threat intel
   If you would like to recieve our monthly threat intel briefing you can get it here:
   * https://cdn.forms-content.sg-form.com/0147c735-df89-11eb-9b03-8e75703429bd
+
+# Other Talks from JP
+If you are interested in other talks I have given, you can find some of them here: https://github.com/J33p3rs/misc/blob/main/JP-Talks.md
